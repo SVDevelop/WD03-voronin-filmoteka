@@ -1,0 +1,15 @@
+.card__header {
+  display: flex;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.button	{
+	/*//padding: 10px;*/
+	/*display: flex;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-justify-content: center;
+	        justify-content: center;*/
+}
